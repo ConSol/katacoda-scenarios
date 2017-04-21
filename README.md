@@ -1,2 +1,2 @@
-# katacoda-scenarios
+# Katacoda Scenarios
 Katacoda training scenarios
